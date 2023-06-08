@@ -4,6 +4,8 @@
   <test thread-count="5" name="testngxml">
     <classes>
       <class name="TestRunner.testrunner_productDetails"/>
+      <class name="TestRunner.teatrunner_excelreader"/>
+      <class name="TestRunner.testrunner_ProductNameOutline"/>
     </classes>
   </test> <!-- testngxml -->
 </suite> <!-- Suite -->
